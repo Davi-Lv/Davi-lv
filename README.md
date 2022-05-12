@@ -18,9 +18,6 @@
     <a href="https://www.instagram.com/davii_lv/"><img id="instagram" align="center" max-width=100%  src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
 </div>
 
-![Snake animation](https://github.com/Davi-Lv/blob/output/github-contribution-grid-snake.svg)
-
-
 <!--
 **Davi-Lv/Davi-lv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
