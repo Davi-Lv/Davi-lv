@@ -5,7 +5,7 @@
     - Estudante: Análise e Desenvolvimento de Sistemas - IFPE Jaboatão <br>
     - Atualmente estudando: JavaScript, Java, Spring, React.JS e CSS <br>
     - Ferramentas que mais uso: Git/Github e Visual Studio <br>
-    - Áreas de Interesse: Front-end mobile e desktop <br>
+    - Áreas de Interesse: Front-end (mobile e desktop) <br>
 </div>
 
 <div>
