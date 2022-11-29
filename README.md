@@ -1,11 +1,10 @@
 
 <div>
   <h1>Olá!!! 🙋‍♂️ </h1>
-  <P>Bem vindo ao meu Github! <br> Me chamo Davi, moro em Jaboatão dos Guararapes, Pernambuco, Brasil. <br><br>
-    - Estudante: Análise e Desenvolvimento de Sistemas - IFPE Jaboatão <br>
-    - Atualmente estudando: JavaScript, Java, Spring, React.JS e CSS <br>
-    - Ferramentas que mais uso: Git/Github e Visual Studio <br>
-    - Áreas de Interesse: Front-end (mobile e desktop) <br>
+  <P>
+  Bem vindo ao meu Github! <br> Me chamo Davi, moro em Jaboatão dos Guararapes, Pernambuco, Brasil. <br>
+  Atualmente sou estudante do curso de Análise e Desenvolvimento de Sistemas no Instituto Federal de Pernambuco (IFPE).
+  </p>
 </div>
 
 <div>
