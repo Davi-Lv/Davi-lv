@@ -2,7 +2,7 @@
 <div>
   <h1>Olá!!! 🙋‍♂️ </h1>
   <P>
-  👋🏽 Olá, fico feliz que você tenha chegado no meu perfil, te convido para conhecer um pouco sobre mim, sou um estudante de análise e desenvolvimento de sistemas no Instituto federal de Pernambuco no campus Jaboatão e atualmente tenho dedicado meu dia a dia para estudos de tecnologias para o front-end e back-end, com objetivo de ser full-stack 
+  fico feliz que você tenha chegado no meu perfil, te convido para conhecer um pouco sobre mim, sou um estudante de análise e desenvolvimento de sistemas no Instituto federal de Pernambuco no campus Jaboatão e atualmente tenho dedicado meu dia a dia para estudos de tecnologias para o front-end e back-end, com objetivo de ser full-stack 
 
 📚 A primeira vez que me encontrei com o mundo de desenvolvimento eu tinha 15 anos e queria entender como um aplicativo funcionava no meu celular e criei uma calculadora com react navitve apenas para aprender, e achei uma das coisas que mais amo atualmente, o mundo dev. Daquele tempo em diante, vim estudando desenvolvimento aos poucos e no final do ensino médio (2019) entrei com tudo nos estudos dessa área.
 
