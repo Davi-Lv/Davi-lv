@@ -23,7 +23,7 @@
     <a href="https://www.instagram.com/davii_lv/"><img id="instagram" align="center" max-width=100%  src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
 </div><br>
 
- - José Davi Mordonho Guimarães
+ - <h1> José Davi Mordonho Guimarães </h1>
   
 <!--
 #JoséDaviMordonhoGuimarães
