@@ -2,15 +2,18 @@
 <div>
   <h1>Olá!!! 🙋‍♂️ </h1>
   <P>
-  Bem vindo ao meu Github! <br> Me chamo Davi, moro em Jaboatão dos Guararapes, Pernambuco, Brasil. <br>
-  Atualmente sou estudante do curso de Análise e Desenvolvimento de Sistemas no Instituto Federal de Pernambuco (IFPE).
+  👋🏽 Olá, fico feliz que você tenha chegado no meu perfil, te convido para conhecer um pouco sobre mim, sou um estudante de análise e desenvolvimento de sistemas no Instituto federal de Pernambuco no campus Jaboatão e atualmente tenho dedicado meu dia a dia para estudos de tecnologias para o front-end e back-end, com objetivo de ser full-stack 
+
+📚 A primeira vez que me encontrei com o mundo de desenvolvimento eu tinha 15 anos e queria entender como um aplicativo funcionava no meu celular e criei uma calculadora com react navitve apenas para aprender, e achei uma das coisas que mais amo atualmente, o mundo dev. Daquele tempo em diante, vim estudando desenvolvimento aos poucos e no final do ensino médio (2019) entrei com tudo nos estudos dessa área.
+
+🎓 Atualmente tenho conhecimento de varias das melhores tecnologias, conceitos relacionados a experiências de usuários e métodos para preparação e ideação de sistemas. Conhecimento de bases tecnologias como JavaScript, HTML, CSS, SQL, Python, Git/Github, Node.js e evoluindo em alguns frameworks como o React.JS, React Native, Express e Spring boot e na parte de servidor o MySQL. Estudo inglês todos os dias e já consigo ler livros técnicos na minha área facilmente, e na conversação consigo falar e entender algumas palavras.
   </p>
-</div>
+</div><br>
 
 <div>
   <a href="https://github.com/Davi-Lv/">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Davi-LV&layout=compact&langs_count=7&theme=dark"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Davi-LV&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Davi-LV&layout=compact&langs_count=7&theme=codeSTACKr"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Davi-LV&show_icons=true&theme=codeSTACKr&include_all_commits=true&count_private=true"/>
 </div>
   
 <div> 
@@ -21,18 +24,5 @@
 </div>
 
 <!--
-**Davi-Lv/Davi-lv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 index.( José Davi Mordonho Guimarães )
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
