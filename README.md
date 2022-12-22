@@ -2,11 +2,11 @@
 <div>
   <h1>Olá!!! 🙋‍♂️ </h1>
   <P>
-  fico feliz que você tenha chegado no meu perfil, te convido para conhecer um pouco sobre mim, sou um estudante de análise e desenvolvimento de sistemas no Instituto federal de Pernambuco no campus Jaboatão e atualmente tenho dedicado meu dia a dia para estudos de tecnologias para o front-end e back-end, com objetivo de ser full-stack 
+  fico feliz que você tenha chegado até aqui. Gostaria de convidá-lo a conhecer um pouco sobre mim. Sou estudante de análise e desenvolvimento de sistemas no Instituto Federal de Pernambuco, campus Jaboatão. Desde muito cedo, eu soube que queria fazer a diferença no mundo e encontrei na tecnologia a maneira perfeita de realizar essa ambição.
 
-📚 A primeira vez que me encontrei com o mundo de desenvolvimento eu tinha 15 anos e queria entender como um aplicativo funcionava no meu celular e criei uma calculadora com react navitve apenas para aprender, e achei uma das coisas que mais amo atualmente, o mundo dev. Daquele tempo em diante, vim estudando desenvolvimento aos poucos e no final do ensino médio (2019) entrei com tudo nos estudos dessa área.
-
-🎓 Atualmente tenho conhecimento de varias das melhores tecnologias, conceitos relacionados a experiências de usuários e métodos para preparação e ideação de sistemas. Conhecimento de bases tecnologias como JavaScript, HTML, CSS, SQL, Python, Git/Github, Node.js e evoluindo em alguns frameworks como o React.JS, React Native, Express e Spring boot e na parte de servidor o MySQL. Estudo inglês todos os dias e já consigo ler livros técnicos na minha área facilmente, e na conversação consigo falar e entender algumas palavras.
+Atualmente, tenho conhecimento em várias das melhores tecnologias e conceitos relacionados a experiências de usuários e métodos para preparação e criação de sistemas/projetos. Tenho conhecimento em tecnologias básicas como JavaScript, HTML, CSS, SQL, Python, Git/GitHub, Node.js, API Rest e estou evoluindo em alguns frameworks como React.JS, React Native, Express e Spring Boot. Também tenho conhecimento em MySQL em termos de servidor. Estudo inglês todos os dias e já consigo ler livros técnicos na minha área com facilidade, embora ainda esteja aprendendo o inglês falado.
+    
+Espero ter a oportunidade de colaborar com você em algum projeto futuro e contribuir para o crescimento e sucesso da sua empresa. Obrigado por visitar meu perfil!
   </p>
 </div><br>
 
