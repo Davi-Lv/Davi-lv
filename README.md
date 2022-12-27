@@ -1,12 +1,8 @@
 
 <div>
-  <h1>Olá!!! 🙋‍♂️ </h1>
+  <h1>Olá, sou Davi Mordonho!!! 🙋‍♂️ </h1>
   <P>
-  fico feliz que você tenha chegado até aqui. Gostaria de convidá-lo a conhecer um pouco sobre mim. Sou estudante de análise e desenvolvimento de sistemas no Instituto Federal de Pernambuco, campus Jaboatão. Desde muito cedo, eu soube que queria fazer a diferença no mundo e encontrei na tecnologia a maneira perfeita de realizar essa ambição.
-
-Atualmente, tenho conhecimento em várias das melhores tecnologias e conceitos relacionados a experiências de usuários e métodos para preparação e criação de sistemas/projetos. Tenho conhecimento em tecnologias básicas como JavaScript, HTML, CSS, SQL, Python, Git/GitHub, Node.js, API Rest e estou evoluindo em alguns frameworks como React.JS, React Native, Express e Spring Boot. Também tenho conhecimento em MySQL em termos de servidor. Estudo inglês todos os dias e já consigo ler livros técnicos na minha área com facilidade, embora ainda esteja aprendendo o inglês falado.
-    
-Espero ter a oportunidade de colaborar com você em algum projeto futuro e contribuir para o crescimento e sucesso da sua empresa. Obrigado por visitar meu perfil!
+Sou um desenvolvedor apaixonado por construir coisas que melhoram a vida das pessoas ao meu redor. Para mais detalhes, por favor, verifique <a href="https://www.linkedin.com/in/davi-mordonho-277948236">meu Linkedin</a>
   </p>
 </div><br>
 
@@ -20,10 +16,18 @@ Espero ter a oportunidade de colaborar com você em algum projeto futuro e contr
   <h2>Contatos 👇 </h2>
   <a href="https://www.linkedin.com/in/davi-mordonho-277948236"><img id="linkedIn" align="center" max-width=100%  src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="mailto:josedavimordonhoguimaraes@gmail.com"><img id="gmail" align="center" max-width=100%  src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-    <a href="https://www.instagram.com/davii_lv/"><img id="instagram" align="center" max-width=100%  src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
+   <a href="https://www.instagram.com/davii_lv/"><img id="instagram" align="center" max-width=100%  src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
+   <a href="https://twitter.com/Davii_lv"><img id="twitter" align="center" max-width=100%  src="https://img.shields.io/badge/Twitter-00acee?style=for-the-badge&logo=twitter&logoColor=white"></a>
 </div><br>
 
- - <h1> José Davi Mordonho Guimarães </h1>
+### Algumas tecnologias que uso
+[![My Skills](https://skills.thijs.gg/icons?i=html,css,js,react,bootstrap,nodejs,express,python,java&theme=light)](https://github.com/Davi-Lv/)
+
+### Algumas ferramentas que uso
+[![My Skills](https://skills.thijs.gg/icons?i=git,github,eclipse,mysql,mongodb,vscode,figma,ps,ai&theme=light)](https://github.com/Davi-Lv/)
+
+
+##### <h1> José Davi Mordonho Guimarães </h1>
   
 <!--
 #JoséDaviMordonhoGuimarães
