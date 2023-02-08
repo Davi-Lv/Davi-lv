@@ -2,7 +2,7 @@
 <div>
   <h1>Olá, sou Davi Mordonho!!! 👋 </h1>
   <P>
-Sou um desenvolvedor apaixonado por construir coisas que melhoram a vida das pessoas ao meu redor. <br> Para mais detalhes, verifique <a href="https://www.linkedin.com/in/davi-mordonho-277948236">meu Linkedin</a>
+Sou um desenvolvedor apaixonado por construir coisas que melhoram a vida das pessoas ao meu redor. <br> Veja mais detalhes no <a href="https://www.linkedin.com/in/davi-mordonho-277948236">meu Linkedin</a>
   </p>
 </div><br>
 
