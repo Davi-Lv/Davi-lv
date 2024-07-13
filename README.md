@@ -20,11 +20,8 @@ Sou um desenvolvedor apaixonado por construir coisas que melhoram a vida das pes
    <a href="https://twitter.com/Davii_lv"><img id="twitter" align="center" max-width=100%  src="https://img.shields.io/badge/Twitter-00acee?style=for-the-badge&logo=twitter&logoColor=white"></a>
 </div><br>
 
-### Algumas tecnologias que uso
-[![My Skills](https://skills.thijs.gg/icons?i=html,css,js,react,bootstrap,nodejs,express,python,java&theme=light)](https://github.com/Davi-Lv/)
-
-### Algumas ferramentas que uso
-[![My Skills](https://skills.thijs.gg/icons?i=git,github,eclipse,mysql,mongodb,vscode,figma,ps,ai&theme=light)](https://github.com/Davi-Lv/)
+### Ferramentas favoritas que uso com frequência
+[![Minhas Ferramentas](https://skillicons.dev/icons?i=git,github,eclipse,mysql,mongodb,vscode,figma,ps,ai&theme=light)](https://github.com/Davi-Lv/)
 
 
 ##### <h1> José Davi Mordonho Guimarães </h1>
