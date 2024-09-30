@@ -1,17 +1,12 @@
-
 <div>
-  <h1>Olá, sou Davi Mordonho!!! 👋 </h1>
+  <h1>Olá, sou Davi Mordonho! 👋 </h1>
   <P>
-Sou um desenvolvedor apaixonado por construir coisas que melhoram a vida das pessoas ao meu redor. <br> Veja mais detalhes no <a href="https://www.linkedin.com/in/davi-mordonho-277948236">meu Linkedin</a>
+    Um desenvolvedor apaixonado por construir coisas que melhoram a vida das pessoas ao meu redor. 
+    <br>
+    Veja mais detalhes no <a href="https://www.linkedin.com/in/davi-mordonho-277948236">meu Linkedin</a>
   </p>
-</div><br>
-
-<div>
-  <a href="https://github.com/Davi-Lv/">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Davi-LV&layout=compact&langs_count=7&theme=codeSTACKr"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Davi-LV&show_icons=true&theme=codeSTACKr&include_all_commits=true&count_private=true"/>
 </div>
-  
+
 <div> 
   <h2>Contatos 👇 </h2>
   <a href="https://www.linkedin.com/in/davi-mordonho-277948236"><img id="linkedIn" align="center" max-width=100%  src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
@@ -19,10 +14,6 @@ Sou um desenvolvedor apaixonado por construir coisas que melhoram a vida das pes
    <a href="https://www.instagram.com/davii_lv/"><img id="instagram" align="center" max-width=100%  src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
    <a href="https://twitter.com/Davii_lv"><img id="twitter" align="center" max-width=100%  src="https://img.shields.io/badge/Twitter-00acee?style=for-the-badge&logo=twitter&logoColor=white"></a>
 </div><br>
-
-### Ferramentas favoritas que uso com frequência
-[![Minhas Ferramentas](https://skillicons.dev/icons?i=git,github,eclipse,mysql,mongodb,vscode,figma,ps,ai&theme=light)](https://github.com/Davi-Lv/)
-
 
 ##### <h1> José Davi Mordonho Guimarães </h1>
   
