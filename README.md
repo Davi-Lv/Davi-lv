@@ -15,8 +15,6 @@
    <a href="https://twitter.com/Davii_lv"><img id="twitter" align="center" max-width=100%  src="https://img.shields.io/badge/Twitter-00acee?style=for-the-badge&logo=twitter&logoColor=white"></a>
 </div><br>
 
-##### <h1> José Davi Mordonho Guimarães </h1>
-  
 <!--
 #JoséDaviMordonhoGuimarães
 #JoseDaviMordonhoGuimaraes
