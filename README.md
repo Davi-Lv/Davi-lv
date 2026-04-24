@@ -1,9 +1,8 @@
 <div>
   <h1>Olá, sou Davi Mordonho! 👋 </h1>
   <P>
-    Um desenvolvedor de software focado em web apps e automações cansado que resolve uns B.O muito loco por ai... tentando melhora a vida da galera ao meu redor. 
-    <br>
-    Quer mais sobre? <a href="https://meu-portfolio-8qk6.vercel.app">AQUI</a>
+    Um desenvolvedor de software focado em web apps e automações cansado que resolve uns B.O muito loco por ai... 
+    tentando melhora a vida da galera ao meu redor. Quer mais sobre? <a href="https://meu-portfolio-8qk6.vercel.app">AQUI</a>
   </p>
 </div>
 
