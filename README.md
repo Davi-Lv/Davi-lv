@@ -1,9 +1,9 @@
 <div>
   <h1>Olá, sou Davi Mordonho! 👋 </h1>
   <P>
-    Um maneger de software cansado que resolve uns B.O muito loco por ai... tentando melhora a vida da galera ao meu redor. 
+    Um desenvolvedor de software focado em web apps e automações cansado que resolve uns B.O muito loco por ai... tentando melhora a vida da galera ao meu redor. 
     <br>
-    Quer algo mais formalzinho? meu <a href="https://www.linkedin.com/in/davi-mordonho-277948236">Linkedin aqui</a>
+    Quer mais sobre? <a href="https://meu-portfolio-8qk6.vercel.app">AQUI</a>
   </p>
 </div>
 
