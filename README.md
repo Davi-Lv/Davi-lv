@@ -1,9 +1,9 @@
 <div>
   <h1>Olá, sou Davi Mordonho! 👋 </h1>
   <P>
-    Um desenvolvedor apaixonado por construir coisas que melhoram a vida das pessoas ao meu redor. 
+    Um maneger de software cansado que resolve uns B.O muito loco por ai... tentando melhora a vida da galera ao meu redor. 
     <br>
-    Veja mais detalhes no <a href="https://www.linkedin.com/in/davi-mordonho-277948236">meu Linkedin</a>
+    Quer algo mais formalzinho? meu <a href="https://www.linkedin.com/in/davi-mordonho-277948236">Linkedin aqui</a>
   </p>
 </div>
 
