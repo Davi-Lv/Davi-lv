@@ -2,9 +2,10 @@
   <h1>Olá, sou Davi Mordonho! 👋 </h1>
   <P>
     Um cansado que resolve uns B.O muito loco por ai... desenvolvedor de software focado em web apps e automações 
-    tentando melhora a vida da galera ao meu redor. Quer mais sobre? <a href="https://meu-portfolio-8qk6.vercel.app">AQUI</a>
+    tentando melhora a vida da galera ao meu redor.
     <br><br>
-    Ajudo empresas com a <a href="https://terremotodigitalonline.com.br">Terremoto Digital</a>
+    Ajudo empresas com a <a href="https://terremotodigitalonline.com.br">Terremoto Digital</a><br>
+    Mais sobre mim <a href="https://davimordonho.pages.dev/">aqui</a>  
   </p>
 </div>
 
