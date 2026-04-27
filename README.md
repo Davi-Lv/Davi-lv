@@ -1,10 +1,10 @@
 <div>
   <h1>Olá, sou Davi Mordonho! 👋 </h1>
   <P>
-    Um cansado que resolve uns B.O muito loco por ai... desenvolvedor de software focado em web apps e automações 
-    tentando melhorar a vida da galera ao meu redor.
+    Um cansado que resolve uns B.O muito loco por ai... desenvolvedor de software focado em web apps e automações.
+    Tentando melhorar a vida da galera ao meu redor.
     <br><br>
-    Ajudo empresas com a <a href="https://terremotodigitalonline.com.br">Terremoto Digital</a><br>
+    Ajudo empresas através da <a href="https://terremotodigitalonline.com.br">Terremoto Digital</a><br>
     Mais sobre mim <a href="https://davimordonho.pages.dev/">aqui</a>  
   </p>
 </div>
