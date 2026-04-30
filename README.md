@@ -1,29 +1,51 @@
-<div>
-  <h1>Olá, sou Davi Mordonho! 👋 </h1>
-  <P>
-    Um cansado que resolve uns B.O muito loco por ai... desenvolvedor de software focado em web apps e automações.
-    Tentando melhorar a vida da galera ao meu redor.
-    <br><br>
-    Ajudo empresas através da <a href="https://terremotodigitalonline.com.br">Terremoto Digital</a><br>
-    Mais sobre mim <a href="https://davimordonho.pages.dev/">aqui</a>  
-  </p>
-</div>
+<h1>José Davi Mordonho Guimarães 👋</h1>
 
-<div> 
-  <h2>Contatos 👇 </h2>
-  <a href="https://www.linkedin.com/in/davi-mordonho-277948236"><img id="linkedIn" align="center" max-width=100%  src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="mailto:josedavimordonhoguimaraes@gmail.com"><img id="gmail" align="center" max-width=100%  src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-   <a href="https://www.instagram.com/davii_lv/"><img id="instagram" align="center" max-width=100%  src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
-   <a href="https://twitter.com/Davii_lv"><img id="twitter" align="center" max-width=100%  src="https://img.shields.io/badge/Twitter-00acee?style=for-the-badge&logo=twitter&logoColor=white"></a>
-</div><br>
+<p>
+  Desenvolvedor de software focado em <strong>web apps</strong> e <strong>automações</strong>.
+  <br>
+  Resolvo uns B.O muito loco por ai e busco melhorar a vida das pessoas ao meu redor.
+</p>
 
-<!--
-#JoséDaviMordonhoGuimarães
-#JoseDaviMordonhoGuimaraes
-#josedavimordonhoguimaraes
-#josédavimordonhoguimarães
-jose davi mordonho guimaraes
-josé davi mordonho guimarães
-Jose Davi Mordonho Guimaraes
-José Davi Mordonho Guimarães
--->
+---
+* Desenvolvimento de web apps
+* Automações para empresas
+* Soluções práticas e escaláveis
+
+Atualmente ajudo empresas através da <br>
+👉 <a href="https://terremotodigitalonline.com.br">Terremoto Digital</a>
+
+Saiba mais sobre o José Davi Mordonho Guimarães: <br>
+👉 <a href="https://davimordonho.pages.dev/">Portfólio de desenvolvedor</a>
+
+---
+
+### Contato
+
+<p>
+  <a href="https://www.linkedin.com/in/davi-mordonho-277948236">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+  <a href="mailto:josedavimordonhoguimaraes@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
+  <a href="https://www.instagram.com/davii_lv/">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+  </a>
+  <a href="https://twitter.com/Davii_lv">
+    <img src="https://img.shields.io/badge/Twitter-00acee?style=for-the-badge&logo=twitter&logoColor=white">
+  </a>
+</p>
+
+---
+
+## SEO (sim, isso ajuda mesmo)
+### 🔎 Sobre José Davi Mordonho Guimarães
+
+José Davi Mordonho Guimarães é um desenvolvedor de software brasileiro especializado em web apps e automações.
+Também conhecido como Davi Mordonho, atua criando soluções digitais para empresas e projetos independentes.
+
+</br>
+
+<p>
+  <i>Se você pesquisou "José Davi Mordonho Guimarães" no Google, provavelmente era eu mesmo 😄</i>
+</p>
