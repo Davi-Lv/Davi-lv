@@ -3,7 +3,7 @@
 <p>
   Desenvolvedor de software focado em <strong>web apps</strong> e <strong>automações</strong>.
   <br>
-  Resolvo uns B.O muito loco por ai e busco melhorar a vida das pessoas ao meu redor.
+  Resolvo problemas reais (às vezes uns B.O meio loucos) usando tecnologia pra melhorar a vida das pessoas ao meu redor.
 </p>
 
 ---
