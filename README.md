@@ -7,14 +7,15 @@
 </p>
 
 ---
+## O que eu faço
 * Desenvolvimento de web apps
 * Automações para empresas
 * Soluções práticas e escaláveis
 
-Atualmente ajudo empresas através da <br>
+Atualmente ajudo empresas através da
 👉 <a href="https://terremotodigitalonline.com.br">Terremoto Digital</a>
 
-Saiba mais sobre o José Davi Mordonho Guimarães: <br>
+Saiba mais sobre o José Davi Mordonho Guimarães
 👉 <a href="https://davimordonho.pages.dev/">Portfólio de desenvolvedor</a>
 
 ---
