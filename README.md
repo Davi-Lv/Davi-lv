@@ -1,7 +1,7 @@
 <h1>José Davi Mordonho Guimarães 👋</h1>
 
 <p>
-  Sou <strong>José Davi Mordonho Guimarães</strong>, desenvolvedor de software focado em <strong>web apps</strong> e <strong>automações</strong>.
+  Sou <strong>Davi Mordonho</strong>, desenvolvedor de software focado em <strong>web apps</strong> e <strong>automações</strong> a mais de 10 anos.
   <br>
   Resolvo problemas reais (às vezes uns B.O meio loucos) usando tecnologia pra melhorar a vida das pessoas ao meu redor.
 </p>
