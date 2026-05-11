@@ -3,7 +3,7 @@
 <p>
   Sou <strong>Davi Mordonho</strong>, desenvolvedor de software focado em <strong>web apps</strong> e <strong>automações</strong> a mais de 10 anos.
   <br>
-  Resolvo problemas reais (às vezes uns B.O meio loucos) usando tecnologia pra melhorar a vida das pessoas ao meu redor.
+  Usando tecnologia pra melhorar a vida das pessoas ao meu redor.
 </p>
 
 ---
