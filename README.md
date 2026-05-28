@@ -12,7 +12,7 @@
 * Automações para empresas
 * Soluções práticas e escaláveis
 
-Atualmente, trabalho em parceria com empresas através da 👉
+Atualmente, trabalho em parceria com empresas através da
 👉 <a href="https://terremotodigitalonline.com.br">Terremoto Digital</a> <br />
 Saiba mais sobre o José Davi Mordonho Guimarães
 👉 <a href="https://davimordonho.pages.dev/">Portfólio de desenvolvedor</a>
