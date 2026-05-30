@@ -9,8 +9,7 @@
 ---
 ## O que eu faço
 * Desenvolvimento de web apps
-* Automações para empresas
-* Soluções práticas e escaláveis
+* Automações e Soluções práticas para empresas 
 
 Atualmente, trabalho em parceria com empresas através da
 👉 <a href="https://terremotodigitalonline.com.br">Terremoto Digital</a> <br />
